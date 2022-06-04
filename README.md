@@ -1,0 +1,2 @@
+# mzybot
+bot discord
